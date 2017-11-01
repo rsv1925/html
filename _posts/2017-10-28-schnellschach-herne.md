@@ -4,8 +4,8 @@ title: "Rader Quartett beim Schnellschachturnier in Herne"
 date: 2017-10-28
 categories: 
 - Turnier
-excerpt: "28.10.2017 - Eine in dieser Höhe überraschende Niederlage musste die 1.Mannschaft
-beim Start in die neue Saison hinnehmen ..."
+excerpt: "28.10.2017 - Am heutigen Samstag nahmen die beiden Radevormwalder Senioren
+Thomas Mau und Frank Havemann sowie der Junior Dominik Czernia und der "Legionär" André Stracke ..."
 ---
 
 Am heutigen Samstag nahmen die beiden Radevormwalder Senioren
