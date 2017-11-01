@@ -47,3 +47,6 @@ allseits bekannte IM Karl-Heinz Podzielny mit 7,5 Punkten.
 
 Die Ergebisse aller Runden sowie der Endstand finden sich unter:
 [17. Benefiz-Turnier Ev. Kinderheim Herne](http://Benefiz2017.ev-kinderheim-herne.de)
+
+![Schnellschachturnier Herne]({{ site.image_path }}2017-10-28-schnellschach-herne-2.jpg)
+![Schnellschachturnier Herne]({{ site.image_path }}2017-10-28-schnellschach-herne-1.jpg)
