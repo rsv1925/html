@@ -5,7 +5,7 @@ date: 2017-10-28
 categories: 
 - Turnier
 excerpt: "28.10.2017 - Am heutigen Samstag nahmen die beiden Radevormwalder Senioren
-Thomas Mau und Frank Havemann sowie der Junior Dominik Czernia und der "Legionär" André Stracke ..."
+Thomas Mau und Frank Havemann sowie der Junior Dominik Czernia und der ..."
 ---
 
 Am heutigen Samstag nahmen die beiden Radevormwalder Senioren
