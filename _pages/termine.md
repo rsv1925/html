@@ -13,7 +13,7 @@ author_profile: true
 |     1 | 10.09.2017 | Radevormwald I – SC Solingen 28 II    |
 |     2 | 08.10.2017 | Bahn-SC Wuppertal V - Radevormwald I  |
 |     3 | 05.11.2017 | Radevormwald I – SG Solingen VI       |
-|     4 | 10.12.2017 | Velberter SG II -   Radevormwald I    |
+|     4 | 07.01.2018 | Velberter SG II -   Radevormwald I    |
 |     5 | 21.01.2018 | Radevormwald I – Wermelskirchen III   |
 |     6 | 04.03.2018 | Langenberg I - Radevormwald I         |
 |     7 | 08.04.2018 | Radevormwald I - SG Solingen V        |
