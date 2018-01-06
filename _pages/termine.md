@@ -5,6 +5,28 @@ permalink: /termine/
 author_profile: true
 ---
 
+### vorläufige Planung der Stadtmeisterschaft 2018
+
+
+|         Runde |      Datum |
+|---------------+------------|
+|             1 | 19.01.2018 |
+|             2 | 26.01.2018 |
+|             3 | 02.02.2018 |
+| Nachholtermin | 09.02.2018 |
+|             4 | 16.02.2018 |
+|             5 | 23.02.2018 |
+|             6 | 02.03.2018 |
+| Nachholtermin | 09.03.2018 |
+|             7 | 16.03.2018 |
+|             8 | 23.03.2018 |
+| Nachholtermin | 06.04.2018 |
+|             9 | 13.04.2018 |
+|            10 | 20.04.2018 |
+|            11 | 27.04.2018 |
+
+Die tatsächliche Anzahl der Runden und des Modus, hängt von der Anzahl der Teilnehmer ab.
+
 ### Mannschaftssaison 2017/18
 
 
