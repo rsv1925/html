@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "dirt" # "default" "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "de-DE"
+locale                   : "de"
 title                    : "Radevormwalder Schachverein 1925"
 title_separator          : "-"
 name                     : "rsv1925"
